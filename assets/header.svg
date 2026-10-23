@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Usama Khalid DevOps and Cloud Engineer">
-<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#172334"/><stop offset="0.65" stop-color="#20394a"/><stop offset="1" stop-color="#244e55"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#75c8bb" opacity=".13"/></pattern></defs>
-<rect width="1000" height="260" rx="22" fill="url(#g)"/><rect width="1000" height="260" rx="22" fill="url(#dots)"/><rect x="15" y="15" width="970" height="230" rx="17" fill="none" stroke="#4a6b76" opacity=".6"/>
-<text x="500" y="63" fill="#8bd8c9" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="bold" letter-spacing="3" text-anchor="middle">CLOUD  •  AUTOMATION  •  RELIABILITY</text>
-<text x="500" y="126" fill="#e5edf5" font-family="DejaVu Sans,Arial,sans-serif" font-size="45" font-weight="bold" text-anchor="middle">Usama Khalid</text>
-<text x="500" y="166" fill="#9acbbf" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" text-anchor="middle">DevOps &amp; Cloud  |  Infrastructure as Code  |  CI/CD</text>
-<line x1="388" x2="612" y1="193" y2="193" stroke="#75c8bb" stroke-width="2" opacity=".7"/>
-<text x="500" y="222" fill="#bdcad8" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" text-anchor="middle">BUILD  •  AUTOMATE  •  VALIDATE  •  IMPROVE</text>
-</svg>

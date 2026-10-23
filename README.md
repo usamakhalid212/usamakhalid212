@@ -1,56 +1,71 @@
 <div align="center">
 
-![Usama Khalid — DevOps & Cloud](assets/header.svg)
+# Hi, I'm Usama Khalid 👋
 
-**Building reliable infrastructure through automation, containerization, and practical engineering.**
+### DevOps & Cloud | Infrastructure Automation | CI/CD | Kubernetes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-26394B?style=flat-square&logo=linkedin&logoColor=75C8BB)](https://www.linkedin.com/in/usama-khalid-0034532b2/)
-[![Repositories](https://img.shields.io/badge/GitHub-Repositories-26394B?style=flat-square&logo=github&logoColor=75C8BB)](https://github.com/usamakhalid212?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Contact-26394B?style=flat-square&logo=gmail&logoColor=75C8BB)](mailto:usamakhalid9922@gmail.com)
+I build and automate cloud infrastructure, containerized applications, and deployment workflows — with an emphasis on reliability, repeatability, and practical engineering.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-khalid-0034532b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usamakhalid212?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:usamakhalid9922@gmail.com)
 
 </div>
 
-## 🌿 About Me
+## About me
 
 - 🔧 Hands-on experience with **Linux, AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, and CI/CD** through DevOps projects and training.
-- 🚀 Worked with **containerized deployments, Git branch workflows, Helm charts, and infrastructure automation**.
-- 🔍 Focused on **deployment reliability, troubleshooting, observability, security, and cloud cost awareness**.
+- 🚀 Worked on **containerized application deployments, Git-based workflows, Helm, and infrastructure automation**.
+- 🔍 Interested in **deployment reliability, troubleshooting, observability, security, and cloud cost awareness**.
 - 🎯 Open to **DevOps Internship** and **Junior DevOps Engineer** opportunities.
 
-## ⚙️ Technical Toolkit
+## Technical toolkit
 
-| Area | Technologies |
-|:--|:--|
-| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-26394B?style=flat-square&logo=amazonwebservices&logoColor=75C8BB) ![Terraform](https://img.shields.io/badge/Terraform-26394B?style=flat-square&logo=terraform&logoColor=75C8BB) ![Ansible](https://img.shields.io/badge/Ansible-26394B?style=flat-square&logo=ansible&logoColor=75C8BB) ![Linux](https://img.shields.io/badge/Linux-26394B?style=flat-square&logo=linux&logoColor=75C8BB) |
-| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-26394B?style=flat-square&logo=docker&logoColor=75C8BB) ![Kubernetes](https://img.shields.io/badge/Kubernetes-26394B?style=flat-square&logo=kubernetes&logoColor=75C8BB) ![Helm](https://img.shields.io/badge/Helm-26394B?style=flat-square&logo=helm&logoColor=75C8BB) ![OpenShift](https://img.shields.io/badge/OpenShift-26394B?style=flat-square&logo=redhatopenshift&logoColor=75C8BB) |
-| **CI/CD & Automation** | ![Jenkins](https://img.shields.io/badge/Jenkins-26394B?style=flat-square&logo=jenkins&logoColor=75C8BB) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-26394B?style=flat-square&logo=githubactions&logoColor=75C8BB) ![Git](https://img.shields.io/badge/Git-26394B?style=flat-square&logo=git&logoColor=75C8BB) ![Bash](https://img.shields.io/badge/Bash-26394B?style=flat-square&logo=gnubash&logoColor=75C8BB) |
-| **Web & Observability** | ![Nginx](https://img.shields.io/badge/Nginx-26394B?style=flat-square&logo=nginx&logoColor=75C8BB) ![Prometheus](https://img.shields.io/badge/Prometheus-26394B?style=flat-square&logo=prometheus&logoColor=75C8BB) ![Grafana](https://img.shields.io/badge/Grafana-26394B?style=flat-square&logo=grafana&logoColor=75C8BB) ![MongoDB](https://img.shields.io/badge/MongoDB-26394B?style=flat-square&logo=mongodb&logoColor=75C8BB) |
+**Cloud & Infrastructure**
 
-## 🧩 Featured DevOps Work
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-| Project | Implementation |
-|:--|:--|
-| **[E-Commerce Application](https://github.com/usamakhalid212/E-Commerce-Project)** | Multi-service Docker Compose deployment, Git branch promotion, networking, health checks, and persistent storage for MongoDB and uploads. |
-| **[Dockerized Portfolio](https://github.com/usamakhalid212/Project-03-Docker)** | Containerized an Nginx-served portfolio using Docker and Docker Compose. |
-| **[Nginx Deployment Automation](https://github.com/usamakhalid212/Project-02-Nginx)** | Nginx server blocks, custom logs, scripted deployments, backups, and rollback workflows. |
-| **Kubernetes & Helm** | Kubernetes application deployment resources and Helm chart configuration. |
-| **AWS Infrastructure as Code** | Terraform provisioning practice and an encrypted, versioned S3 remote backend with native state locking. |
-| **Jenkins CI/CD** | Declarative CI/CD pipeline integrating source control, Docker builds, deployment, and verification. |
+**Containers & Orchestration**
 
-**[Explore more repositories →](https://github.com/usamakhalid212?tab=repositories)**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 
-## 📈 GitHub Activity
+**CI/CD & Automation**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Web & Observability**
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+## Featured DevOps work
+
+| Project | What I implemented |
+|---|---|
+| **[E-Commerce Application](https://github.com/usamakhalid212/E-Commerce-Project)** | Docker Compose deployment of a multi-service application, Git branch promotion workflow, service networking, health checks, and persistent database and upload storage. |
+| **[Dockerized Portfolio](https://github.com/usamakhalid212/Project-03-Docker)** | Containerized an Nginx-served portfolio with Docker and Compose. |
+| **[Nginx Deployment Automation](https://github.com/usamakhalid212/Project-02-Nginx)** | Configured Nginx server blocks, custom logs, automated deployment, backup, and rollback workflows. |
+| **Kubernetes & Helm** | Deployed containerized applications using Kubernetes resources and worked with Helm chart configuration. |
+| **AWS Infrastructure as Code** | Practiced Terraform provisioning and configured a versioned, encrypted S3 backend with native state locking. |
+| **Jenkins CI/CD** | Built a declarative pipeline integrating source control, Docker image builds, deployment, and verification. |
+
+Explore additional work in my **[GitHub repositories](https://github.com/usamakhalid212?tab=repositories)**.
+
+## GitHub activity
 
 <div align="center">
 
-![GitHub statistics](https://github-readme-stats.shion.dev/api?username=usamakhalid212&show_icons=true&hide_border=true&bg_color=172334&title_color=75C8BB&text_color=E5EDF5&icon_color=75C8BB)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=usamakhalid212&theme=github_dark&hide_border=true&show_icons=true)
 
-![GitHub contribution streak](https://streak-stats.demolab.com/?user=usamakhalid212&hide_border=true&background=172334&ring=75C8BB&fire=75C8BB&currStreakLabel=75C8BB&sideLabels=E5EDF5&dates=A8B9CB&currStreakNum=E5EDF5&sideNums=E5EDF5)
+![GitHub streak](https://streak-stats.demolab.com/?user=usamakhalid212&theme=github-dark-blue&hide_border=true)
+
+</div>
 
 ---
 
-**Build · Automate · Validate · Improve**
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/usama-khalid-0034532b2/) · [Repositories](https://github.com/usamakhalid212?tab=repositories) · [Email](mailto:usamakhalid9922@gmail.com)
+**Build • Automate • Validate • Improve**
+
+[Let's connect on LinkedIn](https://www.linkedin.com/in/usama-khalid-0034532b2/) · [Explore my repositories](https://github.com/usamakhalid212?tab=repositories)
 
 </div>

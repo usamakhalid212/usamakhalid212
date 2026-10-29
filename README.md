@@ -2,9 +2,9 @@
 
 # Hi, I'm Usama Khalid 👋
 
-### DevOps & Cloud | Infrastructure Automation | CI/CD | Kubernetes
+### DevOps Engineer | Cloud Infrastructure • Kubernetes • Terraform • CI/CD
 
-I build and automate cloud infrastructure, containerized applications, and deployment workflows — with an emphasis on reliability, repeatability, and practical engineering.
+I build and automate cloud infrastructure, containerized applications, and deployment workflows, with a focus on reliability, repeatability, and practical engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-khalid-0034532b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usamakhalid212?tab=repositories)
@@ -12,14 +12,24 @@ I build and automate cloud infrastructure, containerized applications, and deplo
 
 </div>
 
-## About me
+## About Me
 
-- 🔧 Hands-on experience with **Linux, AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, and CI/CD** through DevOps projects and training.
-- 🚀 Worked on **containerized application deployments, Git-based workflows, Helm, and infrastructure automation**.
-- 🔍 Interested in **deployment reliability, troubleshooting, observability, security, and cloud cost awareness**.
-- 🎯 Open to **DevOps Internship** and **Junior DevOps Engineer** opportunities.
+- 🔧 Completed a **DevOps & Cloud Engineering Internship at Miseacademy**, applying cloud, containerization, CI/CD, and deployment concepts through hands-on tasks.
+- ⚙️ Experienced through practical projects with **Linux, AWS, Docker, Kubernetes, Helm, Terraform, Ansible, Jenkins, and Git**.
+- 🚀 Built **containerized application deployments, infrastructure automation, Git-based workflows, and deployment pipelines**.
+- 🔍 Interested in **reliability, troubleshooting, observability, security, and cloud cost awareness**.
+- 🎯 Open to **DevOps Engineer, Junior DevOps Engineer, and Cloud Engineering opportunities**.
 
-## Technical toolkit
+## Experience
+
+**DevOps & Cloud Engineering Intern — Miseacademy** · *Completed October 2026*
+
+- Practiced AWS infrastructure and application deployment workflows.
+- Worked with Docker, Kubernetes, and Helm to deploy and manage containerized applications.
+- Practiced Jenkins CI/CD automation and Git-based development and promotion workflows.
+- Used Terraform for Infrastructure as Code and strengthened Linux administration and troubleshooting skills.
+
+## Technical Toolkit
 
 **Cloud & Infrastructure**
 
@@ -33,30 +43,28 @@ I build and automate cloud infrastructure, containerized applications, and deplo
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Web & Observability**
+**Web, Data & Observability**
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Kiali](https://img.shields.io/badge/Kiali-2B77C0?style=flat-square) ![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=flat-square)
 
-## Featured DevOps work
+## Featured DevOps Work
 
 | Project | What I implemented |
 |---|---|
-| **[E-Commerce Application](https://github.com/usamakhalid212/E-Commerce-Project)** | Docker Compose deployment of a multi-service application, Git branch promotion workflow, service networking, health checks, and persistent database and upload storage. |
-| **[Dockerized Portfolio](https://github.com/usamakhalid212/Project-03-Docker)** | Containerized an Nginx-served portfolio with Docker and Compose. |
-| **[Nginx Deployment Automation](https://github.com/usamakhalid212/Project-02-Nginx)** | Configured Nginx server blocks, custom logs, automated deployment, backup, and rollback workflows. |
-| **Kubernetes & Helm** | Deployed containerized applications using Kubernetes resources and worked with Helm chart configuration. |
-| **AWS Infrastructure as Code** | Practiced Terraform provisioning and configured a versioned, encrypted S3 backend with native state locking. |
-| **Jenkins CI/CD** | Built a declarative pipeline integrating source control, Docker image builds, deployment, and verification. |
+| **[E-Commerce Application](https://github.com/usamakhalid212/E-Commerce-Project)** | Multi-service Docker Compose deployment with service networking, health checks, MongoDB persistence, and Git branch promotion workflows. |
+| **[Kubernetes Deployment](https://github.com/usamakhalid212/Project-08-Kubernetes)** | Deployment replicas, Services, ConfigMaps, Secrets, namespaces, and rolling updates using Minikube. |
+| **[Terraform on AWS](https://github.com/usamakhalid212/Project-06-Terraform)** | Infrastructure as Code for AWS EC2 and security groups, including provisioning and teardown workflows. |
+| **[Jenkins CI/CD](https://github.com/usamakhalid212/Project-04-Jenkins)** | Declarative pipeline, source control integration, Docker builds, and deployment automation. |
+| **[Ansible Automation](https://github.com/usamakhalid212/Project-07-Ansible)** | Automated environment configuration and Docker-based application deployment using playbooks and roles. |
+| **[Nginx Deployment Automation](https://github.com/usamakhalid212/Project-02-Nginx)** | Nginx server blocks, logging, deployment scripts, backup, rollback, and troubleshooting. |
 
-Explore additional work in my **[GitHub repositories](https://github.com/usamakhalid212?tab=repositories)**.
+More projects: **[Browse my repositories](https://github.com/usamakhalid212?tab=repositories)**.
 
-## GitHub activity
+## GitHub Activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=usamakhalid212&theme=github_dark&hide_border=true&show_icons=true)
-
-![GitHub streak](https://streak-stats.demolab.com/?user=usamakhalid212&theme=github-dark-blue&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usamakhalid212&show_icons=true&hide_border=true&theme=github_dark)
 
 </div>
 
